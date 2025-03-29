@@ -1,1 +1,2 @@
 # Naive-Baise-Classifier
+I implemented a Naive Bayes classifier for spam detection using the Multinomial Naive Bayes model from sklearn. The dataset (spam.csv) contains text messages labeled as spam or ham, which were converted into binary values (1 for spam, 0 for ham). After splitting the data into training and testing sets, I used CountVectorizer to transform text into numerical features and trained the model. The classifier achieved an accuracy of 98.06% on the test set, demonstrating the effectiveness of Naive Bayes in text classification tasks.
