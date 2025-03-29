@@ -1,1 +1,1 @@
-# Naive-Based-Classifier
+# Naive-Baise-Classifier
